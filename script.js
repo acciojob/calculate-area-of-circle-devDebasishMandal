@@ -5,6 +5,6 @@
 	 const pi =Math.PI;
 	 let area=pi*(r**);
       let ans=area.toFixed(2);
-	 console.log(ans);
+	 console.log(`The area of the circle with radius ${radius} is ${ans}`);
 }
 calculateArea();
